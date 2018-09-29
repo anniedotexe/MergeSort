@@ -71,3 +71,5 @@ print("\nSorted Array: ")
 for i in array:
     #print index i with a space after it
     print(i, end = " ")
+    
+    
